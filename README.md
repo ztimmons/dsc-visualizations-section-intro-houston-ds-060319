@@ -3,7 +3,7 @@
 
 ## Introduction
 
-In this lesson, we'll get an overview of everything we'll learn in this section about data visualization. 
+In this lesson, we'll get an overview of everything we'll learn about data visualization in this section . 
 
 ## Objectives
 
@@ -15,6 +15,8 @@ You will be able to:
 ## Data Visualization
 
 
-In this section, we're going to focus on **_Data Visualization_**. We'll start by gaining some practice with more advanced visualizations using matplotlib, as well as a second visualization library, **_Seaborn_**. We'll also spend some time going over the best practices for making great visualizations, and examine some of the most common mistakes!
+In this section, we're going to focus on **_Data Visualization_**. We'll get start off by getting some deliberate practice in with some of Matplotlib's more advanced features, such as subplots.
 
+Then, we'll dig into some of the best practices for data visualization, and learn how we can make visualizations that will look great in any professional environment. We'll also dig into some of the most common mistakes people make when creating visualizations, so that we can avoid them. 
 
+Finally, we'll learn about a more advanced visualization library, **_Seaborn_**. We'll get some practice with Seaborn, and get a feel for when to use Seaborn, and when to use Matplotlib. 
